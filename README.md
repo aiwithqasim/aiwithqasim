@@ -27,7 +27,7 @@
 - Front-end web Develper at [AGM](https://www.linkedin.com/company/agm-kuwait-&-partners/) - Served as Internee of Front end Development at AGM for developing a website front view.
 
 ### Honors & Awards 🏅
--  Selected as 1 of 500 recipients for the [Deep learning](https://www.udacity.com/bertelsmann-tech-scholarships) designed to upskill professionals interested in using emerging Deep Learning technologies to enhance their organization's IT infrastructure.
+-  Selected as 1 of 500 recipients for the [Deep learning Scholarship](https://www.udacity.com/bertelsmann-tech-scholarships) designed to upskill professionals interested in using emerging Deep Learning technologies to enhance their organization's IT infrastructure.
 -  Selected as 1 of 500 recipients for the [Intel® Edge AI Scholarship Program](https://www.udacity.com/scholarships/intel-edge-ai-scholarship) designed to upskill professionals interested in using Intel® Edge technologies.
 
 ### Skills 🎓
