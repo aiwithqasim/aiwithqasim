@@ -1,19 +1,22 @@
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Qasim!
 
-<a href="https://www.linkedin.com/in/qasim-hassan/">
-  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
-</a>
-<a href="https://www.kaggle.com/qasimhassan">
-  <img align="left" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-256.png"  />
-</a>
-</a>
 <a href="https://www.facebook.com/aiwithqasim">
   <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png"  />
 </a>
+
 <a href="mailto:qasimhassan1020@gmail.com">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
 </a>
+
+<a href="https://www.kaggle.com/qasimhassan">
+  <img align="left" width="24px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-256.png"  />
+</a>
+
+<a href="https://www.linkedin.com/in/qasim-hassan/">
+  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"  />
+</a>
+
 <a href="https://qasim1020.medium.com/">
   <img align="left" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-256.png" />
 </a>
@@ -21,7 +24,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Data Science enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m a Data Science enthusiast & a junior pursuing my bachelor in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
