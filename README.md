@@ -29,10 +29,11 @@
 
 ### My Experiences 🙌
 
+- [AWS Campus Ambassador](https://awscommunity.pk/) - serve as ambassador for AWS to introduce the valueable servies of AWS to Bahrian community.
+- [Royal Cyber's Ambassador](https://www.royalcyber.com/) promtoe the valueable events like Artificial Intelligence, Big data , MlOps etc to Bahrian Community.
 - [Lead Pakistan Chapter](https://omdena.com/omdena-chapter-page-pakistan/) - Under the vision to establish an ecosystem to educate human resources & remove technology gap from Pakistan become lead of [Omdena Pakistan Chapter](https://www.facebook.com/OmdenaPK/).
 - [Jr.Machine Learning Engineer](https://omdena.com/) - Jr. Machine Learning Engineer at world's #1 platform for building Artificial Intelligence i:e [Omdena](https://omdena.com/) with 20,000+ collaborators from different places around the world.
 - [Jr.Data Scientist ](https://www.linkedin.com/company/aisol-ai-solutions/) -AISOL was a startup form providing Artficial Intellgence Services and I served as Jr.Data Scientist on different Projects.
-- Ambassador at [Data Science Journey Pakistan](https://www.linkedin.com/company/data-science-journey-pakistan/) - served as Ambassador to promote Data Science in Pakistan through  variety of valuable courses related to Data Science.
 - Data Science & Bussiness Analyst at [The Spark Foundation](https://www.thesparksfoundationsingapore.org/) - part of sparks foundation as internee of Data Science & bussiness analytics to work on different projects.
 - Front-end web Develper at [AGM](https://www.linkedin.com/company/agm-kuwait-&-partners/) - Served as Internee of Front end Development at AGM for developing a website front view.
 
