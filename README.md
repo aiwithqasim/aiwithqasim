@@ -25,7 +25,7 @@
 
 ### About Me 🚀
 🎓 I’m a Data Science enthusiast & a junior pursuing my bachelor in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about computer vision, Web Dev, Machine Learning, DevOps & I enjoy learning new things. </br>
+👨‍💻  I am passionate about Artificial Intelligence, Data Science, MLops, DevSecOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 
