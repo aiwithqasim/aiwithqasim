@@ -24,7 +24,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m a Data Science enthusiast & a junior pursuing my bachelor in Computer Science & Engineering. </br>
+🎓 I’m a Data Science enthusiast & a junior pursuing my bachelor's in Computer Science & Engineering. </br>
 👨‍💻  I am passionate about Artificial Intelligence, Data Science, MLops, DevSecOps & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
