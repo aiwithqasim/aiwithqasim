@@ -52,7 +52,7 @@
 - Backend Development using <strong>Django</strong> and <strong>Flask</strong>.
 
 ### Follow
-- To follow my GitHub, Search by username <strong>aiwithQasim</strong>.
+- To follow my GitHub, Search by username <strong>aiwithqasim</strong>.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiwithqasim)](https://github.com/anuraghazra/github-readme-stats)
 
