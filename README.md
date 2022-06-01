@@ -1,5 +1,5 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Qasim!
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height= "29">, I'm Qasim!
 
 <a href="https://www.facebook.com/aiwithqasim" target="_blank" rel="noopener noreferrer">
   <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png"  />
