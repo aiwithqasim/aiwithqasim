@@ -30,8 +30,8 @@
 
 ### My Experiences 🙌
 
-- [AWS Cloud Captain] (https://aws.amazon.com/developer/community/students/) - Got selected as AWS cloud Captain to unleash the AWS Cloud skills among students community
-- [Data ENgineer @ Royal CYber] (https://www.linkedin.com/company/202963/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BfggyD1HIT56cnp0a1YPYYg%3D%3D) - Working as Data Engineer at Royal cyber
+- [AWS Cloud Captain](https://aws.amazon.com/developer/community/students/) - Got selected as AWS cloud Captain to unleash the AWS Cloud skills among students community
+- [Data ENgineer @ Royal CYber](https://www.linkedin.com/company/202963/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BfggyD1HIT56cnp0a1YPYYg%3D%3D) - Working as Data Engineer at Royal cyber
 - [AWS Campus Ambassador](https://awscommunity.pk/) - serve as ambassador for AWS to introduce the valueable servies of AWS to Bahrian community.
 - [Royal Cyber's Ambassador](https://www.royalcyber.com/) promtoe the valueable events like Artificial Intelligence, Big data , MlOps etc to Bahrian Community.
 - [Lead Pakistan Chapter](https://omdena.com/omdena-chapter-page-pakistan/) - Under the vision to establish an ecosystem to educate human resources & remove technology gap from Pakistan become lead of [Omdena Pakistan Chapter](https://www.facebook.com/OmdenaPK/).
