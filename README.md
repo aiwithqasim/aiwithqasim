@@ -21,7 +21,7 @@
 
 ### About Me 🚀
 
-🎓 I'm an experienced **Data Engineer** with a proven track record of 3+ years.</br>
+🎓 I'm an experienced **Senior Data Engineer** with a proven track record of 5+ years.</br>
 🔨 Proficient in drawing out business value mainly by using Data Engineering tools (i:e., **AWS**, **Azure**, **Databricks**, **Snowflake**)</br>
 👨‍💻  I'm interested in data-related fields like GenAI and Machine Learning  & I enjoy learning new things.</br>
 
