@@ -32,61 +32,16 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 
 ## 💼 Professional Experience
 
-### 🌟 Senior Data Engineer
-**[Tradeweb Markets](https://www.tradeweb.com/)** | Oct 2025 – Present | Remote  
-*Global electronic fixed-income & derivatives marketplace*
+**🌟 Senior Data Engineer** | [Tradeweb Markets](https://www.tradeweb.com/) | Oct 2025 – Present  
+- Built **SFTP-to-Snowflake pipelines** achieving **99% SLA** | Led **Prefect 2→3 migration** across 5+ production workflows
 
-- ✅ Built automated **SFTP-to-Snowflake pipelines** achieving **99% data availability SLA**
-- ✅ Led enterprise-wide **Prefect 2 → 3 migration** across 5+ production workflows (zero downtime)
-- ✅ Pioneered **AI-assisted data engineering** using Claude Code & Cursor for autonomous operations
+**💙 Senior Data Engineer** | [Norstella](https://www.norstella.com/) (Apollo Project) | Dec 2023 – Present  
+- Unified **Azure + AWS** infrastructure for biopharma platform | **40% workload reduction** via dynamic query generation
 
-**Tech Stack:** `Snowflake` `Prefect 3` `Apache Kafka` `GitLab CI/CD` `Python` `AWS`
+**🔷 Data Engineer II** | [Royal Cyber Inc.](https://www.linkedin.com/company/202963/) | Oct 2023 – Oct 2025  
+- Designed **Medallion Lakehouse** (**40% faster**) | Optimized **ADF pipelines** (**67% improvement**)
 
----
-
-### 💙 Senior Data Engineer (Contract)
-**[Norstella](https://www.norstella.com/)** (Apollo Project) | Dec 2023 – Present | Remote  
-*Biopharma Intelligence Platform*
-
-- ✅ Led infrastructure unification merging **Azure Synapse + ADF** with **AWS-native stack**
-- ✅ Architected **event-driven data warehousing** with graph-based schema mapping
-- ✅ Developed dynamic query generation system reducing engineering workload by **40%**
-
-**Tech Stack:** `Python` `PostgreSQL` `Snowflake` `Azure Synapse` `AWS` `Airflow` `Terraform`
-
----
-
-### 🔷 Data Engineer
-**[Royal Cyber Inc.](https://www.linkedin.com/company/202963/)** | Oct 2023 – Oct 2025 | Remote  
-*IT Consulting & Cloud Services*
-
-- ✅ Designed **Medallion (Bronze/Silver/Gold) Lakehouse** on Azure Databricks (**40% faster** processing)
-- ✅ Optimized **Azure Data Factory pipelines** from **1 hour → 20 minutes (67% improvement)**
-- ✅ Implemented **Enterprise Data Governance** using Databricks Unity Catalog
-
-**Tech Stack:** `Python` `PySpark` `Azure Databricks` `ADF` `ADLS Gen2` `Delta Lake` `MLFlow`
-
----
-
-### 🎓 Lead Data Engineering Instructor
-**[Saylani Mass IT Training](https://www.saylanimasit.com/)** | Jun 2023 – Present | Karachi  
-*Pakistan's Largest Free IT Training Institution*
-
-- ✅ Designed **6-8 month Multi-Cloud curriculum** for **1000+ students**
-- ✅ Taught production-grade practices: Medallion architecture, CI/CD, data governance
-- ✅ Delivered hands-on **Amazon Redshift warehousing** capstone projects
-
-**Expertise:** `Python` `SQL` `PySpark` `Azure` `AWS` `Snowflake` `Airflow` `Kafka` `DBT`
-
----
-
-### 🌍 Data Engineer / Chapter Lead
-**[Omdena](https://omdena.com/)** | Apr 2021 – Jul 2022 | Remote  
-*Global AI Platform for Social Impact*
-
-- ✅ Led **Omdena Pakistan Chapter** with **48+ international collaborators**
-- ✅ Delivered open-source projects: *Energy Crisis in Pakistan* & *COVID-19 Analysis*
-- ✅ Built ETL pipelines and geospatial analytics solutions
+**[View Full Experience](https://www.linkedin.com/in/qasim-hassan/)** on LinkedIn
 
 ---
 
@@ -141,23 +96,12 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 
 ---
 
-## 📚 Featured Projects
+## 📚 Featured Highlights
 
-### 🔷 Microsoft Fabric End-to-End Data Engineering
-Complete **Medallion Lakehouse** with real-time API ingestion, PySpark transformations, and Power BI Direct Lake reporting  
-**Tech:** `Microsoft Fabric` `OneLake` `Fabric Notebooks` `Direct Lake` `CI/CD`
-
-### 💙 Azure Medallion Lakehouse (Royal Cyber)
-Enterprise-grade **40% processing reduction**, **99% SLA** achievement  
-**Tech:** `Azure Databricks` `ADLS Gen2` `Delta Lake` `PySpark`
-
-### 🔐 Data Governance & Data Mesh (Humana)
-Multi-level access control, lineage tracking, domain-based data ownership  
-**Tech:** `Unity Catalog` `Data Mesh` `RBAC`
-
-### ⚡ ADF Pipeline Optimization (Niagara Bottling)
-**67% runtime improvement** through intelligent partitioning  
-**Tech:** `Azure Data Factory` `Partitioning` `Performance Tuning`
+🔷 **Microsoft Fabric Lakehouse** — Real-time API ingestion → PySpark transformations → Power BI Direct Lake  
+💙 **Azure Medallion Architecture** (Royal Cyber) — **40% faster** processing, **99% SLA**  
+🔐 **Enterprise Data Governance** (Humana) — Multi-level access, data lineage, Data Mesh  
+⚡ **ADF Optimization** (Niagara Bottling) — **67% runtime improvement** via intelligent partitioning
 
 ---
 
