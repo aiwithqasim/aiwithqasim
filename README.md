@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 Experienced **Senior Data Engineer** specializing in enterprise-scale data platform architecture and cloud infrastructure optimization. I transform complex business requirements into scalable, production-ready data solutions across **Microsoft Azure**, **AWS**, and **Snowflake** ecosystems.
@@ -30,8 +28,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 | 🎓 Education | Trained **1,000+ students** in production-grade data engineering |
 | 🤖 Innovation | Pioneered AI-assisted autonomous data operations |
 | 🏆 Recognition | AWS Community Builder · Databricks & Snowflake Certified · Gold Medalist |
-
----
 
 ## 💼 Professional Experience
 
@@ -45,8 +41,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 > Designed Medallion Lakehouse (**40% faster**) · Optimized ADF pipelines (**67% improvement**)
 
 [**View Full Experience on LinkedIn →**](https://www.linkedin.com/in/qasim-hassan/)
-
----
 
 ## 🛠️ Technical Expertise
 
@@ -67,8 +61,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 
 </div>
 
----
-
 ## 🏆 Certifications & Recognition
 
 <div align="center">
@@ -87,8 +79,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 
 </div>
 
----
-
 ## ⭐ Key Achievements
 
 | Achievement | Detail |
@@ -99,8 +89,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 | 🤖 AI-Assisted Engineering | Pioneered autonomous data operations using Claude Code |
 | 🌍 48+ Global Collaborators | Led open-source projects for social impact |
 
----
-
 ## 📚 Featured Projects
 
 | Project | Stack | Impact |
@@ -109,8 +97,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 | 💙 **Azure Medallion Architecture** | ADF · Databricks · Delta Lake | **40% faster** processing with **99% SLA** |
 | 🔐 **Enterprise Data Governance** | Unity Catalog · Data Mesh | Multi-level access control & lineage at Humana |
 | ⚡ **ADF Pipeline Optimization** | ADF · Spark · Intelligent Partitioning | **67% runtime improvement** at Niagara Bottling |
-
----
 
 ## 📊 GitHub Statistics
 
@@ -121,8 +107,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=qasim1020.qasim-hassan)
 
 </div>
-
----
 
 ## 🤝 Let's Connect
 
