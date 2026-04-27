@@ -16,8 +16,6 @@ Building scalable data platforms that drive enterprise innovation ⚡
 
 </div>
 
----
-
 ## 🚀 About Me
 
 Experienced **Senior Data Engineer** specializing in enterprise-scale data platform architecture and cloud infrastructure optimization. I transform complex business requirements into scalable, production-ready data solutions using cutting-edge technologies across **Microsoft Azure**, **AWS**, and **Snowflake** ecosystems.
@@ -27,8 +25,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 - 🎓 Trained **1000+ students** in production-grade data engineering practices
 - 🤖 Pioneered AI-assisted engineering for autonomous data operations
 - 🏆 AWS Community Builder | Databricks & Snowflake Certified | Gold Medalist
-
----
 
 ## 💼 Professional Experience
 
@@ -42,8 +38,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 - Designed **Medallion Lakehouse** (**40% faster**) | Optimized **ADF pipelines** (**67% improvement**)
 
 **[View Full Experience](https://www.linkedin.com/in/qasim-hassan/)** on LinkedIn
-
----
 
 ## 🛠️ Technical Expertise
 
@@ -64,8 +58,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 
 </div>
 
----
-
 ## 🏆 Certifications & Recognition
 
 <div align="center">
@@ -83,7 +75,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 **AWS Community Builder** | **Gold Medalist - Computer Engineering** | **Deep Learning Scholar** | **Intel Edge AI Scholar**
 
 </div>
-
 ---
 
 ## ⭐ Featured Achievements
@@ -92,19 +83,13 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 🎯 **1000+ Students Trained** — Lead instructor in production-grade data engineering  
 🎯 **Enterprise Data Governance** — Implemented Data Mesh & Unity Catalog at scale  
 🎯 **AI-Assisted Engineering** — Pioneered autonomous data operations using Claude Code  
-🎯 **48+ Global Collaborators** — Led open-source projects for social impact  
-
----
-
+🎯 **48+ Global Collaborators** — Led open-source projects for social impact
 ## 📚 Featured Highlights
 
 🔷 **Microsoft Fabric Lakehouse** — Real-time API ingestion → PySpark transformations → Power BI Direct Lake  
 💙 **Azure Medallion Architecture** (Royal Cyber) — **40% faster** processing, **99% SLA**  
 🔐 **Enterprise Data Governance** (Humana) — Multi-level access, data lineage, Data Mesh  
 ⚡ **ADF Optimization** (Niagara Bottling) — **67% runtime improvement** via intelligent partitioning
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -115,8 +100,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 
 </div>
 
----
-
 ## 🤝 Let's Connect!
 
 I'm always open to discussing **data engineering**, **cloud architecture**, **mentoring**, and exciting new projects!
@@ -125,8 +108,6 @@ I'm always open to discussing **data engineering**, **cloud architecture**, **me
 🔗 **LinkedIn:** [linkedin.com/in/qasim-hassan](https://www.linkedin.com/in/qasim-hassan/)  
 📝 **Medium:** [qasim1020.medium.com](https://qasim1020.medium.com/)  
 💻 **GitHub:** [github.com/aiwithqasim](https://github.com/aiwithqasim)  
-
----
 
 <div align="center">
 
