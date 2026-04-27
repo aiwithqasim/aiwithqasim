@@ -75,7 +75,6 @@ Experienced **Senior Data Engineer** specializing in enterprise-scale data platf
 **AWS Community Builder** | **Gold Medalist - Computer Engineering** | **Deep Learning Scholar** | **Intel Edge AI Scholar**
 
 </div>
----
 
 ## ⭐ Featured Achievements
 
